@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/traez/tip-calculator](https://github.com/traez/tip-calculator)
-- Live Site URL: [https://traez.github.io/tip-calculator/](https://traez.github.io/tip-calculator)
+- Solution URL: [https://github.com/traez/shopping-grocery-cart](https://github.com/traez/shopping-grocery-cart)
+- Live Site URL: [https://traez.github.io/shopping-grocery-cart/](https://traez.github.io/shopping-grocery-cart/)
 
 ## My process
 
@@ -52,7 +52,7 @@ Users should be able to:
 
 ### Continued development
 
-1) This was my second real respectable JavaScript project done with no cloning. Trying to build from the ground up, so picking challenges I can complete independently with no cloning, aside "stackoverflow research".   
+1) This was my 2nd real respectable JavaScript project done with no cloning. Trying to build from the ground up, so picking challenges I can complete independently with no cloning, aside "Stackoverflow research".   
 
 ### Useful resources
 
@@ -65,4 +65,4 @@ Stackoverflow, MDN Web Docs, w3schools, YouTube, Google
 
 ## Acknowledgments
 
-Congrats to The Flamingoes for placing third at the 2022 FIFA Women U-17 WorldCup. You inspire me to keep pursuing my dreams.  
+Congrats to The Flamingoes for placing third at the 2022 FIFA Women's U-17 WorldCup. You inspire me to keep pursuing my dreams.  
