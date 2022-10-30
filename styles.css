@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 1px solid black;
+}
+html{
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  height:100%;
+  width: 100%;
+  padding: 1rem;
+  font-family: 'Trebuchet MS';
+  font-weight: bold;
+  }
+main{
+width: 60rem;
+height: auto;
+display: grid;
+grid-template: auto/3fr 1fr;
+grid-template-areas: "aa bb";
+padding: 0.5rem;
+background-color: hsl(207, 68%, 79%);
+gap: 0.5rem;
+border-radius: 0.5rem;
+box-shadow: 0.2rem 0.2rem grey;
+  }
+.major{
+  grid-area: aa;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  }
+h1, h2{
+    background-color: hsl(120, 60%, 60%);
+    color: teal;
+    padding: 0.5rem;
+    font-size: 1.7rem;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+    box-shadow: 0.2rem 0.2rem grey;
+    text-align: center;
+  }
+article{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr) );
+    gap: 0.5rem;
+  }
+.minor{
+  grid-area: bb;
+}
+img{
+  width:30%;
+}
+footer{
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+/* 
+#################################
+Test 20
+To make the ordering of the plans more logical, using JavaScript, move the basic plan to be before (to the left) of the pro plan.
+https://dev.to/codebubb/javascript-dom-practice-exercises-for-beginners-21ml
+#################################
+.container{
+  display: flex;
+  gap: 2rem;
+}
+.card{
+  border: 1px solid black;
+}
+*/
+/* 
+#################################
+Test 21
+To make the Pro plan have a stronger call to action, update the current 'Get started' button to be blue (#007bff) with white text and have the text 'Buy Now'
+https://dev.to/codebubb/javascript-dom-practice-exercises-for-beginners-21ml
+#################################
+.spice{
+background-color: #007bff;
+color: white;
+}
+.container{
+  display: flex;
+  gap: 2rem;
+}
+.card{
+  border: 1px solid black;
+}
+*/
+/* 
+#################################
+Test 22
+Change Background Color
+https://jsbeginners.com/change-background-color-project/
+#################################
+No CSS
+*/
+/*
+#################################
+Test 23
+Hex Change Background Color
+https://jsbeginners.com/hex-change-background-color-project/
+#################################
+No CSS
+*/
+/*
+#################################
+Test 24
+Random Quotes
+https://jsbeginners.com/random-quotes-project/
+#################################
+* {
+  border: 1px solid black;
+}
+*/
+/*
+#################################
+Test 25
+Pass The Message
+#################################
+Too much CSS (Great for aesthetics and to make effect clear, but not 100% necessary). Figure it out
+*/
+/*
+#################################
+Test 26
+Counter
+#################################
+Too much CSS (Great for aesthetics and to make effect clear, but not 100% necessary). Figure it out
+*/
+/*
+#################################
+Test 29
+Background Image Slider
+https://jsbeginners.com/background-image-slider-project/
+#################################
+Too much CSS (Great for aesthetics and to make effect clear, but not 100% necessary). Figure it out
+*/
+/*
+#################################
+Test 30
+Filter
+https://jsbeginners.com/filter-project/
+#################################
+Too much CSS (Great for aesthetics and to make effect clear, but not 100% necessary). Figure it out
+*/
+/*
+#################################
+Test 31
+Modal 
+https://jsbeginners.com/modal-javascript-project/
+#################################
+Too much CSS (Great for aesthetics and to make effect clear, but not 100% necessary). Figure it out
+*/
+/*
+#################################
+Test 32
+Calculator
+https://jsbeginners.com/calculator-javascript-project/
+#################################
+Too much CSS (Great for aesthetics and to make effect clear, but not 100% necessary). Figure it out
+*/
+/*
+#################################
+Test 33
+Tip Form Calculator
+https://jsbeginners.com/tip-form-javascript-project/
+#################################
+Too much CSS (Great for aesthetics and to make effect clear, but not 100% necessary). Figure it out
+*/
+/*
+#################################
+Test 34
+Todo List
+https://jsbeginners.com/todo-list-javascript-project-v1/
+#################################
+Too much CSS (Great for aesthetics and to make effect clear, but not 100% necessary). Figure it out
+*/
